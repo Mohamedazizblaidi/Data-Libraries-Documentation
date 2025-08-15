@@ -1,0 +1,47 @@
+# Free Courses with Certification in Data Science, ML, DL, and AI
+
+This repository contains a curated list of **free courses** with **free completion certificates** in fields like **Data Science, Machine Learning, Deep Learning, Artificial Intelligence, Generative AI, Data Analysis**, and related areas. Each course includes the platform, official link, field, and certificate type.
+
+---
+
+| Course Name | Organization / Platform | Field | Certificate Type | Official Link |
+|------------|------------------------|-------|-----------------|---------------|
+| Kaggle's micro-courses | ![Kaggle](https://img.shields.io/badge/Kaggle-100%25-blue) | ![Data Science](https://img.shields.io/badge/Field-ML%2FDL%2FData%20Science-blueviolet) | Free completion certification | [Kaggle Learn](https://www.kaggle.com/learn) |
+| Data Analysis with Python | ![Freecodecamp](https://img.shields.io/badge/Freecodecamp-100%25-green) | ![Data Analysis](https://img.shields.io/badge/Field-Data%20Analysis-orange) | Free completion certification | [Freecodecamp](https://www.freecodecamp.org/learn/data-analysis-with-python) |
+| Machine Learning with Python | ![Freecodecamp](https://img.shields.io/badge/Freecodecamp-100%25-green) | ![Machine Learning](https://img.shields.io/badge/Field-Machine%20Learning%2FDeep%20Learning-blue) | Free completion certification | [Freecodecamp](https://www.freecodecamp.org/learn/machine-learning-with-python) |
+| Scientific Computing with Python | ![Freecodecamp](https://img.shields.io/badge/Freecodecamp-100%25-green) | ![Scientific Computing](https://img.shields.io/badge/Field-Scientific%20Computing-lightgrey) | Free completion certification | [Freecodecamp](https://www.freecodecamp.org/learn/scientific-computing-with-python) |
+| Pytorch Bootcamp | ![OpenCV](https://img.shields.io/badge/OpenCV-100%25-red) | ![ML/DL](https://img.shields.io/badge/Field-Machine%20Learning%2FDeep%20Learning-blue) | Free completion certification | [OpenCV](https://opencv.org/university/free-pytorch-course/?utm_source=opcvu&utm_medium=menu&utm_campaign=ptbc) |
+| Deep Learning Onramp | ![OpenCV](https://img.shields.io/badge/OpenCV-100%25-red) | ![ML/DL](https://img.shields.io/badge/Field-Machine%20Learning%2FDeep%20Learning-blue) | Free completion certification | [OpenCV](https://opencv.org/university/free-tensorflow-keras-course/?utm_source=opcvu&utm_medium=menu&utm_campaign=tbc) |
+| Deep Learning Onramp | ![Matlab](https://img.shields.io/badge/Matlab-100%25-orange) | ![Deep Learning](https://img.shields.io/badge/Field-Deep%20Learning-blueviolet) | Free completion certification | [Matlab Academy](https://matlabacademy.mathworks.com/details/deep-learning-onramp/deeplearning) |
+| Machine Learning Onramp | ![Matlab](https://img.shields.io/badge/Matlab-100%25-orange) | ![Machine Learning](https://img.shields.io/badge/Field-Machine%20Learning-blue) | Free completion certification | [Matlab Academy](https://matlabacademy.mathworks.com/details/machine-learning-onramp/machinelearning) |
+| Elements of AI | ![University of Helsinki](https://img.shields.io/badge/University%20of%20Helsinki-100%25-blue) | ![AI](https://img.shields.io/badge/Field-AI%2FML%2FDL-lightblue) | Free completion certification | [Elements of AI](https://course.elementsofai.com) |
+| AI Agents Course | ![Huggingface](https://img.shields.io/badge/Huggingface-100%25-yellow) | ![AI Agents](https://img.shields.io/badge/Field-AI%20Agents-lightgreen) | Free completion certification | [Huggingface](https://huggingface.co/learn/agents-course/unit0/introduction) |
+| Intro to Gen AI & Prompt Engineering | ![Manara Tech](https://img.shields.io/badge/Manara%20Tech-100%25-red) | ![AI](https://img.shields.io/badge/Field-AI-orange) | Free completion certification | [Manara Tech](https://app.manara.tech/learning/9/landing-page?source=card&cardLocation=learning%20page%20-%20browse%20section%20-%20all%20learning%20paths%20tab&location=Card%20Click) |
+| Databases | ![Manara Tech](https://img.shields.io/badge/Manara%20Tech-100%25-red) | ![Gen AI](https://img.shields.io/badge/Field-Gen%20AI-lightblue) | Free Credly Badge | [Manara Tech](https://app.manara.tech/learning/46/landing-page?source=card&cardLocation=learning%20page%20-%20browse%20section%20-%20all%20learning%20paths%20tab&location=Card%20Click) |
+| Azure: AI Fundamentals | ![Manara Tech](https://img.shields.io/badge/Manara%20Tech-100%25-red) | ![Machine Learning](https://img.shields.io/badge/Field-Machine%20Learning-blue) | Free Credly Badge / Free completion certification | [Manara Tech](https://app.manara.tech/learning/18/landing-page?source=card&cardLocation=learning%20page%20-%20browse%20section%20-%20all%20learning%20paths%20tab&location=Card%20Click) |
+| CS50’s Intro to AI with Python | ![CS50](https://img.shields.io/badge/CS50-100%25-red) | ![AI](https://img.shields.io/badge/Field-AI-lightblue) | Free Credly Badge / Free completion certification | [CS50 AI](https://cs50.harvard.edu/ai) |
+| Data Engineering | ![AWS Educate](https://img.shields.io/badge/AWS%20Educate-100%25-orange) | ![Data Analysis](https://img.shields.io/badge/Field-Data%20Analysis-orange) | Free Credly Badge / Free completion certification | [AWS Educate](https://awseducate.instructure.com/courses/1108) |
+| Machine Learning Foundations | ![AWS Educate](https://img.shields.io/badge/AWS%20Educate-100%25-orange) | ![AI](https://img.shields.io/badge/Field-AI-lightblue) | Free Credly Badge / Free completion certification | [AWS Educate](https://awseducate.instructure.com/courses/910) |
+| Data Analytics Essentials | ![Netcad/Cisco](https://img.shields.io/badge/Netcad%20%2F%20Cisco-100%25-blue) | ![Data Analysis](https://img.shields.io/badge/Field-Data%20Analysis-orange) | Free Credly Badge | [Netcad](https://www.netacad.com/courses/data-analytics-essentials?courseLang=en-US) |
+| Introduction to Data Science | ![Netcad/Cisco](https://img.shields.io/badge/Netcad%20%2F%20Cisco-100%25-blue) | ![Data Science](https://img.shields.io/badge/Field-Data%20Science-blueviolet) | Free Credly Badge | [Netcad](https://www.netacad.com/courses/introduction-data-science?courseLang=en-US) |
+| Introduction to Modern AI | ![Netcad/Cisco](https://img.shields.io/badge/Netcad%20%2F%20Cisco-100%25-blue) | ![AI](https://img.shields.io/badge/Field-AI-lightblue) | Free Credly Badge | [Netcad](https://www.netacad.com/courses/introduction-to-modern-ai?courseLang=en-US) |
+| AI Fundamentals with IBM SkillsBuild | ![Netcad/Cisco](https://img.shields.io/badge/Netcad%20%2F%20Cisco-100%25-blue) | ![Gen AI](https://img.shields.io/badge/Field-Gen%20AI-lightblue) | Free Credly Badge | [Netcad](https://www.netacad.com/courses/ai-ibm-skillsbuild?courseLang=en-US) |
+| Generative AI Leader | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-100%25-blue) | ![Data Science](https://img.shields.io/badge/Field-Data%20Science-blueviolet) | Free completion certification | [Google Cloud](https://www.cloudskillsboost.google/paths/1951) |
+| Machine Learning Engineer Learning Path | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-100%25-blue) | ![AI](https://img.shields.io/badge/Field-AI-lightblue) | Free completion certification | [Google Cloud](https://www.cloudskillsboost.google/paths/17) |
+| Data Analyst Learning Path | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-100%25-blue) | ![Gen AI](https://img.shields.io/badge/Field-Gen%20AI-lightblue) | Free completion certification | [Google Cloud](https://www.cloudskillsboost.google/paths/118) |
+| Beginner: Intro to Generative AI Learning Path | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-100%25-blue) | ![Data Science](https://img.shields.io/badge/Field-Data%20Science-blueviolet) | Free completion certification | [Google Cloud](https://www.cloudskillsboost.google/paths/18) |
+| Getting Started with AI on Jetson Nano | ![NVIDIA Academy](https://img.shields.io/badge/NVIDIA%20Academy-100%25-green) | ![AI](https://img.shields.io/badge/Field-AI-lightblue) | Free completion certification | [NVIDIA Academy](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-RX-02+V2) |
+| Generative AI Explained | ![NVIDIA Academy](https://img.shields.io/badge/NVIDIA%20Academy-100%25-green) | ![Gen AI](https://img.shields.io/badge/Field-Gen%20AI-lightblue) | Free completion certification | [NVIDIA Academy](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1) |
+| Accelerate Data Science Workflows with Zero Code Changes | ![NVIDIA Academy](https://img.shields.io/badge/NVIDIA%20Academy-100%25-green) | ![Data Science](https://img.shields.io/badge/Field-Data%20Science-blueviolet) | Free completion certification | [NVIDIA Academy](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+T-DS-03+V1) |
+| AI for All: From Basics to GenAI Practice | ![NVIDIA Academy](https://img.shields.io/badge/NVIDIA%20Academy-100%25-green) | ![AI](https://img.shields.io/badge/Field-AI-lightblue) | Free completion certification | [NVIDIA Academy](https://academy.nvidia.com/en/course/ai-for-all-from-basics-to-genai-practice/?cm=81220) |
+
+---
+
+### 🔹 Notes
+
+- All courses are **free** and most provide **completion certificates** or **Credly badges**.  
+- These courses cover a broad range of topics in **Data Science, ML, DL, AI, Generative AI, Data Analysis, and more**.  
+- You can directly enroll using the **Official Link** for each course.  
+- Add these certificates to your **LinkedIn profile** or resume to showcase your skills.  
+
+---
