@@ -41,9 +41,16 @@ Additionally, it contains a **collection of valuable books** for Python, Machine
 - `Scikit-Learn.md` – Scikit-Learn machine learning guide  
 - `Transformers.md` – Transformers library guide  
 - `sqlite python.md` – SQLite3 Python guide  
-- `Valuable Books Collection.md` – Collection of books for Python, Machine Learning, and Statistics  
+- `Valuable Books Collection.md` – Collection of books for Python, Machine Learning, and Statistics
 
 ---
+
+:bulb: **Stay Updated!**  
+This repository will be **continuously updated** with new courses, certifications, and resources in **Data Science, Machine Learning, Deep Learning, and AI**.  
+Make sure to **stay tuned** for the latest additions! :sparkles:
+
+---
+
 
 ## 📜 License
 This project is licensed under the **[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)**.
