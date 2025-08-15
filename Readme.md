@@ -10,7 +10,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-lightgrey)](LICENSE)
 
 ## Overview
-This repository contains structured documentation and examples for popular Python libraries used in data science and machine learning. It is intended to serve as a reference for learning and quickly accessing important functions and concepts.
+This repository contains structured documentation and examples for popular Python libraries used in data science and machine learning. It is intended to serve as a reference for learning and quickly accessing important functions and concepts. Additionally, it contains a collection of valuable books for Python, Machine Learning, and Statistics.  
 
 ## Libraries Included
 - **Pandas**: Basics, advanced techniques, DataFrames, and Series documentation
@@ -29,3 +29,5 @@ This repository contains structured documentation and examples for popular Pytho
 - `Seaborn.md` – Seaborn visualization guide (added)
 - `Scikit-Learn.md` – Scikit-Learn machine learning guide
 - `Transformers.md` – Transformers library guide
+- `Valuable Books Collection.md` – Collection of books for Python, Machine Learning, and Statistics  
+
